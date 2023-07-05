@@ -26,7 +26,7 @@ Hello, My name is M.Wali(CWWali => GitHUB username).
 ### Links
 
 - Solution URL: [GitHub](https://github.com/CWWali/qr-code-component-main)
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://cwwali.github.io/qr-code-component-main/)
 
 ### Built with
 

@@ -1,0 +1,56 @@
+/* outfit font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
+
+/* variables */
+:root{
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+}
+
+html{
+    /*base font size  */
+    font-size: 16px; 
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#root{
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--Light-gray);
+}
+
+main{
+    width:20rem;
+    text-align: center;
+    background-color: var(--White);
+    border-radius: 1rem;
+    padding: 1rem;
+    padding-bottom: 3rem;
+    box-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
+}
+img{
+    border-radius: 0.75rem;
+
+}
+h1{
+    font-size: 1.25rem;
+    margin: 1rem 0;
+    user-select: none;
+
+}
+
+p{
+    font-size: 1rem;
+    color: var(--Grayish-blue);
+}
